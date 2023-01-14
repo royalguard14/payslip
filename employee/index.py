@@ -1,8 +1,9 @@
 # id, emp_id, first_name, last_name, Middle_name, suffix, birthdate, status,dependent
 
+import sys
+sys.path.insert(0, 'C:/Users/Admin/Desktop/payslip')
 
-
-
+from myF import *
 
 print("""\
                 CAZ HRIS WITH PAYROLL
@@ -18,7 +19,8 @@ while ex != True:
     module_option = input("Select the number of the Module you want to Access: ")
     match module_option:
         case '1':
-            print("Dashboard Under Construction")
+            z = open_file('employee')
+            print(z)
 
         case '2':
             print("You can become a Data Scientist")
