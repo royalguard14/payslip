@@ -1,0 +1,146 @@
+[{
+        "id": 1,
+        "emp_id": "FADG",
+        "first_name": "Francis Argie",
+        "middle_name": "D.",
+        "last_name": " Gan",
+        "suffix": "N/A",
+        "datehired": "6/21/2021",
+        "status": "Single"
+    },{
+        "id": 2,
+        "emp_id": "JDP",
+        "first_name": "Jamel",
+        "middle_name": "D.",
+        "last_name": " Pandiin",
+        "suffix": "N/A",
+        "datehired": "4/19/2022",
+        "status": "Single"
+    },{
+        "id": 3,
+        "emp_id": "JTB",
+        "first_name": "Junell",
+        "middle_name": "T.",
+        "last_name": " Bojocan",
+        "suffix": "N/A",
+        "datehired": "8/16/2020",
+        "status": "Single"
+    },{
+        "id": 4,
+        "emp_id": "CCA",
+        "first_name": "Cristopher",
+        "middle_name": "C.",
+        "last_name": " Abalorio",
+        "suffix": "N/A",
+        "datehired": "7/23/2019",
+        "status": "Single"
+    },{
+        "id": 5,
+        "emp_id": "JGB",
+        "first_name": "Jovanni",
+        "middle_name": "G.",
+        "last_name": " Bayawa",
+        "suffix": "N/A",
+        "datehired": "5/19/2019",
+        "status": "Single"
+    },{
+        "id": 6,
+        "emp_id": "RCB",
+        "first_name": "Rizaly",
+        "middle_name": "C.",
+        "last_name": " Beniga",
+        "suffix": "N/A",
+        "datehired": "12/20/2020",
+        "status": "Single"
+    },{
+        "id": 7,
+        "emp_id": "JCMB",
+        "first_name": "James Cloyd",
+        "middle_name": "M.",
+        "last_name": " Bustillo",
+        "suffix": "N/A",
+        "datehired": "2/5/2023",
+        "status": "Single"
+    },{
+        "id": 8,
+        "emp_id": "JJED",
+        "first_name": "Jose Janlofre",
+        "middle_name": "E.",
+        "last_name": " Dy",
+        "suffix": "N/A",
+        "datehired": "4/15/2021",
+        "status": "Single"
+    },{
+        "id": 9,
+        "emp_id": "MCE",
+        "first_name": "Michelle",
+        "middle_name": "C.",
+        "last_name": " Elape",
+        "suffix": "N/A",
+        "datehired": "10/15/2019",
+        "status": "Single"
+    },{
+        "id": 10,
+        "emp_id": "PPP",
+        "first_name": "Paolo",
+        "middle_name": "P.",
+        "last_name": " Pacaldo",
+        "suffix": "N/A",
+        "datehired": "3/10/2019",
+        "status": "Single"
+    },{
+        "id": 11,
+        "emp_id": "JCT",
+        "first_name": "Joel",
+        "middle_name": "C.",
+        "last_name": " Trillo",
+        "suffix": "N/A",
+        "datehired": "7/31/2021",
+        "status": "Single"
+    },{
+        "id": 12,
+        "emp_id": "AKMM",
+        "first_name": "Adam Ken",
+        "middle_name": "M.",
+        "last_name": " Mapalo",
+        "suffix": "N/A",
+        "datehired": "8/17/2020",
+        "status": "Single"
+    },{
+        "id": 13,
+        "emp_id": "MCC",
+        "first_name": "Marjorie",
+        "middle_name": "C.",
+        "last_name": " Centino",
+        "suffix": "N/A",
+        "datehired": "8/2/2022",
+        "status": "Single"
+    },{
+        "id": 14,
+        "emp_id": "LIMP",
+        "first_name": "Lord Ian",
+        "middle_name": "M.",
+        "last_name": " Paquiao",
+        "suffix": "N/A",
+        "datehired": "2/27/2020",
+        "status": "Single"
+    },{
+        "id": 15,
+        "emp_id": "NBJ",
+        "first_name": "Nino",
+        "middle_name": "B.",
+        "last_name": " Jabagat",
+        "suffix": "N/A",
+        "datehired": "6/24/2020",
+        "status": "Single"
+    },{
+        "id": 16,
+        "emp_id": "DCPP",
+        "first_name": "Dara Collen",
+        "middle_name": "P.",
+        "last_name": " Patigan",
+        "suffix": "N/A",
+        "datehired": "12/20/2020",
+        "status": "Single"
+    }
+]

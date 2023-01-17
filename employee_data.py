@@ -1,11 +1,14 @@
-# id, emp_id, first_name, last_name, Middle_name, suffix, birthdate, status,dependent
-import os
-import sys
-import ast
+import os, ast, sys
 import pandas as pd
-sys.path.insert(0, 'C:/Users/Admin/Desktop/payslip')
-from myF import *
-os.system('cls')
+from myFunc import *
+
+
+
+         
+
+
+clear()
+
 print("""\
                 CAZ HRIS WITH PAYROLL
     (1) Hire Employee                       
@@ -41,8 +44,15 @@ while ex != True:
         
 
         case '3':
-            #view DataFrame
-            print(df)
+            emp_no = input("Employee: ")
+            z = open_file('employee')
+            for i in z:
+                if i['emp_id'] == emp_no:
+                    print(i)
+                    print(type(i))
+                else:
+                    pass
+
         
 
         case '4':
