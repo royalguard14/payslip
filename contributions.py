@@ -132,27 +132,16 @@ def witholding_tax(gross_taxable_earnings, non_taxable_deductions): #2022
 	taxable_income = gross_taxable_earnings - non_taxable_deductions 
 	if taxable_income < 20833:
 		contribution = {"base":0.00, "persentage":0, "over":0}
-		dd = 'bracket 1'
-
 	elif taxable_income in range(20833,33332+1):
 		contribution = {"base":0.00, "persentage":0.15, "over":20833}
-		dd = 'bracket 2'
-
 	elif taxable_income in range(33333,66666+1):
 		contribution = {"base":1875.00, "persentage":0.20, "over":33333}
-		dd = 'bracket 3'
-
 	elif taxable_income in range(66667,166666+1):
 		contribution = {"base":8541.80, "persentage":0.25, "over":66667}
-		dd = 'bracket 4'
-
 	elif taxable_income in range(166667,666666+1):
 		contribution = {"base":33541.80, "persentage":0.30, "over":166667}
-		dd = 'bracket 5'
-
 	elif taxable_income >= 666667:
 		contribution = {"base":183541.80, "persentage":0.35, "over":666667}		
-		dd = 'bracket 6'
 
 	wht = (contribution['base'] + contribution['persentage'] * (taxable_income - contribution['over']))
 	return wht	
